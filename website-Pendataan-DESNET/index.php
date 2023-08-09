@@ -42,11 +42,11 @@ include_once("inc/inc_fungsi.php");
             <div class="footer">
                 <div class="footer-section">
                     <h3>DESNET</h3>
-                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sint, culpa!</p>
+                    <p> Solusi atas kebutuhan internet dan dukungan IT untuk Anda</p>
                 </div>
                 <div class="footer-section">
                     <h3>About</h3>
-                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sint, culpa!</p>
+                    <p>DESNET, brand di bawah badan hukum PT DES Teknologi Informasi, sebagai perusahaan yang bergerak di bidang layanan berbasis data, pengembangan infrastruktur jaringan, dan aplikasi dengan bisnis utama jasa layanan internet.</p>
                 </div>
                 <div class="footer-section">
                     <h3>Contact us</h3>
