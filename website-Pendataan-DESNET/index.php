@@ -17,7 +17,6 @@ include_once("inc/inc_fungsi.php");
             <div class="menu">
                 <ul>
                     <li><a href=>Home</a></li>
-                    <li><a href=>Contact</a></li>
                     <li><a href="" class="tbl-biru">Sign Up</a></li>
                 </ul>
             </div>
