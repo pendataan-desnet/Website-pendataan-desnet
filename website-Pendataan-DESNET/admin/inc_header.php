@@ -43,11 +43,25 @@ include("../inc/inc_koneksi.php");
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav">
                         <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" href="#">Admin Halaman</a>
+                            <a class="nav-link active" aria-current="page" href="#"><p><a href="<?php echo ('http://localhost/website-Pendataan-DESNET/admin/halaman_input.php')?>" class="tbl-pink">Data Barang</a></p></a>
                         </li>
+                        <div class="padding">5px</div>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Admin Contact</a>
+                            <a class="nav-link" href="#"><p><a href="<?php echo ('http://localhost/website-Pendataan-DESNET/admin/halaman.php')?>" class="tbl-pink">Daftar Barang</a></p></a>
                         </li>
+                        <div class="padding">5px</div>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#"><p><a href="<?php echo ('http://localhost/website-Pendataan-DESNET/admin/halaman_surat.php')?>" class="tbl-pink">Data Surat</a></p></a>
+                        </li>
+                        <div class="padding">5px</div>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#"><p><a href="<?php echo ('http://localhost/website-Pendataan-DESNET/admin/daftar_surat.php')?>" class="tbl-pink">Daftar Surat</a></p></a>
+                        </li>
+                        <div class="padding">5px</div>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#"><p><a href="<?php echo ('http://localhost/website-Pendataan-DESNET/index.php')?>" class="tbl-pink"><< Kembali Ke Halaman Utama</a></p></a>
+                        </li>
+                        <div class="padding">5px</div>
                         <li class="nav-item">
                             <a class="nav-link" href="">Logout>></a>
                         </li>
